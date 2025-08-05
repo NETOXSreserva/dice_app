@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+Apenas um simples app de dado, iniciando os estudos em Flutter/Dart
 
 ## Getting Started
 
