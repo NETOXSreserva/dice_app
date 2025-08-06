@@ -10,9 +10,9 @@ class StyledText extends StatelessWidget {
     return Text(
       text,
       style: TextStyle(
-          color: Colors.white,
-          fontSize: 37,
-          fontFamily: 'Courier'
+        color: Colors.white,
+        fontSize: 37,
+        fontFamily: 'Courier'
       ),
     );
   }
